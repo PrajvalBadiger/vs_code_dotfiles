@@ -1,0 +1,22 @@
+{
+    "git.terminalAuthentication": false,
+    "remote.SSH.remotePlatform": {
+        // add remote ssh ip in the below format
+        // "192.168.105.201": "linux"
+    },
+    "gitlens.defaultDateLocale": null,
+    "workbench.startupEditor": "none",
+    "fhgwext.email": "prajval.badiger@nokia.com",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<esc>"]
+        },
+    ],
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [";"],
+            "after": [":"]
+        }
+}
